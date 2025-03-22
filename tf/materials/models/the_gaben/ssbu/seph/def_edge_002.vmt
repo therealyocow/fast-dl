@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/ssbu/seph/def_edge_002"
+    "$bumpmap"     "models/the_gaben/ssbu/seph/def_edge_002_nor"
+
+	"$alphatest" "0"
+	
+
+	$phongexponenttexture "models/the_gaben/ssbu/seph/def_edge_002_exp"
+
+	$phong "1"
+	$phongboost "0.75"
+	$phongfresnelranges "[1 2 4]"
+	
+
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+
+	"$envmap" "cubemaps/cubemap_specular002"
+	"$envmapfresnel"   "0.75"
+	"$envmaptint" "[ .80 .80 .80]"
+	"$basealphaenvmapmask""1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "7"
+	"$rimlightboost" "1.0"
+
+}

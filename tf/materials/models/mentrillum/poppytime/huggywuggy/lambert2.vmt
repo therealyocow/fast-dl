@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mentrillum/poppytime/huggywuggy/huggy_mat_inst"
+	"$bumpmap" "models/mentrillum/poppytime/huggywuggy/huggy_mat_inst_b"
+	"$nocull" 1
+}

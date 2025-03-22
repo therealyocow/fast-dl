@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mentrillum/poppytime/huggywuggy/huggy_mat_lips"
+	"$bumpmap" "models/mentrillum/poppytime/huggywuggy/huggy_mat_lips_b"
+	"$nocull" 1
+	$phong 1
+	$diffuseexp 1
+
+	$phongfresnelranges "[1 1 1]"
+	$phongboost 0.2
+	$phongtint "[1 1 1]"
+	$phongexponent	3
+}

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mentrillum/scp/106/scp_106"
+	"$bumpmap" "models/mentrillum/scp/106/scp_106_bump"
+	$phong 1
+	$diffuseexp 1
+
+	$phongfresnelranges "[1 1 1]"
+	$phongboost 3
+	$phongtint "[0.1 0.03 0.03]"
+	$phongexponent	25
+
+}

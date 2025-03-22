@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/kuze/suit"
+    	"$bumpmap"     "models/scot/yakuza0/kuze/suit_n"
+	
+
+               "$detail" "models/scot/yakuza0/kuze/shirt_detail"
+	"$detailscale"	"5"
+	
+
+}

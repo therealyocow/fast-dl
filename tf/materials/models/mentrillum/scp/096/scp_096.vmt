@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mentrillum/scp/096/scp_096"
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[1 1 1]"
+}

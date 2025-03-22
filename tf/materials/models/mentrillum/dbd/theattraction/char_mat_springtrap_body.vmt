@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mentrillum/dbd/theattraction/char_tex_springtrap_basecolor"
+	"$bumpmap" "models/mentrillum/dbd/theattraction/char_tex_springtrap_normal"
+	"$phongexponenttexture" "models/mentrillum/dbd/theattraction/char_tex_springtrap_roughness"
+	"$selfillum" "1"
+    	"$selfillummask"     "models/mentrillum/dbd/theattraction/char_tex_springtrap_emissive"
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "0.05"	
+	"$phongfresnelranges"	"[1 5 60]"
+
+	"$specularexponent"		"20"
+	"$specularscale"		 	"0"
+	"$specularcolor" 			"[1 1 1]"
+	"$rimlightcolor" 			"[1 1 1]"
+
+}

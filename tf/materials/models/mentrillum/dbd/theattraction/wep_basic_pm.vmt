@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mentrillum/dbd/theattraction/fireaxe_d"
+	"$bumpmap" "models/mentrillum/dbd/theattraction/fireaxe_n"
+	"$phongexponenttexture" "models/mentrillum/dbd/fireaxe_s"
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" "0.05"	
+	"$phongfresnelranges"	"[1 5 60]"
+
+	"$specularexponent"		"20"
+	"$specularscale"		 	"0"
+	"$specularcolor" 			"[1 1 1]"
+	"$rimlightcolor" 			"[1 1 1]"
+
+}

@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/kuze/suit"
+    	"$bumpmap"     "models/scot/yakuza0/kuze/suit_n"
+
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[.07 .3 .1]"
+               "$detail" "models/scot/yakuza0/kuze/belt_detail"
+	"$detailscale"	"30"
+	
+
+}
