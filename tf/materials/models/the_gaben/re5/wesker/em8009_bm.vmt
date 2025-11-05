@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/the_gaben/re5/wesker/em8009_bm"
-	$nodecal 1
-	$translucent 1
-	$nocull 1
-}

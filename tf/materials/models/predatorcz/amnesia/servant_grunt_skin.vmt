@@ -1,8 +1,0 @@
-patch
-{
-include "materials/models/predatorcz/amnesia/servant_grunt.vmt"
-replace
-{
-	"$basetexture" "models/predatorcz/amnesia/grunt2"
-}
-}
