@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/zerosiki/baldisbasic/playtime7"
+	"$alphatest" 1
+	"$nodecal" 1
+	"$translucent" 1
+}

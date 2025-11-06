@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/page/monokuma/monokuma_d"
+	"$selfillum" 1
+	"$selfillummask" "models/page/monokuma/monokuma_glow"
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/simpsons/eyeball_m"
+	"$nocull" 1
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/zerosiki/granny/tex_spider"
+	"$alphatest" "1"
+	"$nocull" "1"
+}
+

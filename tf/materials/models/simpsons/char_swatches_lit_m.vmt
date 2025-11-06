@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/simpsons/char_swatches_lit_m"
+	"$nocull" 1
+}

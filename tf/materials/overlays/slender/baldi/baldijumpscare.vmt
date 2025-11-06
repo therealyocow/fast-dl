@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/slender/baldi/baldijumpscare"
+	"$alphatest" 1
+	"$nodecal" 1
+	"$translucent" 1
+}
