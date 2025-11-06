@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/shakedown/sato/jacket"
+    	"$bumpmap"     "models/scot/yakuza0/shakedown/egashira/jacket_n"
+	
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[.07 .3 .1]"
+               "$detail" "models/scot/yakuza0/shakedown/egashira/jacket_detail"
+	"$detailscale"	"1"
+}

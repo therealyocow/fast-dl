@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/awano/suit"
+    	"$bumpmap"     "models/scot/yakuza0/awano/suit_n"
+	"$envmap" "cubemaps/cubemap_sheen001"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmapfresnel"   "1"
+
+	"$phong" "1"
+	"$phongboost" "3"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[.07 .3 .1]"
+	
+
+}

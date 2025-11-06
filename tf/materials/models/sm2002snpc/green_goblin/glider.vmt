@@ -1,0 +1,13 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\sm2002snpc\green_goblin\glider"
+	"$bumpmap" "models\sm2002snpc\green_goblin\glider_norm"
+	"$model" 1
+	"$halflambert" "1"
+
+	"$phong" "100"
+	"$phongexponent" 30
+	"$phongboost"	".25"
+	"$phongfresnelranges"	"[0.1 0.5 1]"
+}
+

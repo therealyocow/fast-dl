@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	$nodecal 1
+	$surfaceprop metal
+
+	"$basetexture" "models/the_gaben/ssbu/meta_knight/met2"
+    	"$bumpmap"     "models/the_gaben/ssbu/meta_knight/met2_nor"
+
+	$phongexponenttexture "models/the_gaben/ssbu/meta_knight/met2_exp"
+
+	"$color2"		"[0.8 0.8 0.8]"
+	
+	"$phong" "1"
+	$phongexponent 3
+	$phongboost 2.1
+//	"$phongfresnelranges"			"[0.3 0.7 1.5]"
+	"$phongfresnelranges"	"[.15 .25 .45]"	
+
+	"$phongwarptexture"	"models/the_gaben/ssbu/meta_knight/white"	//Needed to bypass $phongfresnelranges
+	
+	"$phongalbedotint" 1
+
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 0.3
+	$rimmask 1
+
+//	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$lightwarptexture"		"models/the_gaben/ssbu/meta_knight/smash_u_metal_lightwarp"
+}

@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/re5/jv1/wp0301_bm"
+	"$bumpmap" "models/the_gaben/re5/jv1/wp0301_nm"
+	$nodecal 1
+	$surfaceprop weapon
+
+	"$color2"		"[0.8 0.8 0.8]"
+	
+	"$phong" "1"
+	"$phongexponent"				"3"
+	"$phongboost"					"1.1"
+	"$phongfresnelranges"			"[0.3 0.7 1.5]"
+	$phongtint "{245 245 245}"
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 1.0
+
+	$envmap "cubemaps/cubemap_specular001"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.5 0.5 0.5]"
+	$envmapfresnel 0.1
+}

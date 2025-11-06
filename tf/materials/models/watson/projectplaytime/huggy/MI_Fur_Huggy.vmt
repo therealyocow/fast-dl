@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\watson\projectplaytime\huggy\MI_Fur_Huggy"
+	"$nocull" "1"
+	"$translucent" "1"
+}

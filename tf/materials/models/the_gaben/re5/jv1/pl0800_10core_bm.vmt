@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/re5/jv1/pl0800_10core_bm"
+	"$bumpmap" "models/the_gaben/re5/jv1/pl0800_10core_nm"
+	$nodecal 1
+//	$translucent 1
+
+	"$color2"		"[0.95 0.95 0.95]"
+	
+	"$phong" "1"
+	"$phongexponent"				"5"
+	"$phongboost"					"1"
+	"$phongfresnelranges"			"[0.3 0.7 1.5]"
+	$phongtint "{250 250 250}"
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 0.75
+}

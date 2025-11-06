@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/yakuzaps2/nishiki/body"
+	"$noalpha" "1"
+}

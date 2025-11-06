@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/kuze/knuckles"
+    	"$bumpmap"     "models/scot/yakuza0/kuze/knuckles_n"
+	$phong				"1"
+	$phongboost			"3"
+	$phongexponent			"2"
+	$phongfresnelranges		"[0.2 2 1]"
+	$color2 "[.5 .5 .5]"
+	
+
+
+
+
+}

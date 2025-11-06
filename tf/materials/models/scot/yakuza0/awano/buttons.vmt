@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/awano/suit"
+    	"$bumpmap"     "models/scot/yakuza0/awano/suit_n"
+	
+
+	"$phong" "1"
+	"$phongboost" "0.6"
+	"$phongexponent" "3"
+	"$phongfresnelranges" "[.07 .3 .1]"
+	
+
+}

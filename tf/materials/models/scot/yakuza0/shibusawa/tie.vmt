@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/shibusawa/suit"
+    	"$bumpmap"     "models/scot/yakuza0/shibusawa/suit_n"
+	
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "2"
+	"$phongfresnelranges" "[1.7 .1 .05]"
+	$color2 "[.8 .8 .7]"
+	"$phongalbedotint" "1"
+	"$phongtint" "[0.075 0.055 0]"
+
+	
+
+}

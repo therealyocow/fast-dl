@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/shibusawa/chain"
+    	"$bumpmap"     "models/scot/yakuza0/shibusawa/glasses_n"
+	
+	$color2 "[.25 .25 .25]"
+	"$envmap" "cubemaps/cubemap_gold001"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmapfresnel"   "1"
+
+}

@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/ssbu/seph/skin_dolly_003"
+    "$bumpmap"     "models/the_gaben/ssbu/seph/skin_dolly_003_nor"
+
+	"$alphatest" "0"
+	
+
+	$phongexponenttexture "models/the_gaben/ssbu/seph/skin_dolly_003_exp"
+
+	$phong "1"
+	$phongboost "1"
+	$phongfresnelranges "[1 2 4]"
+	$phongalbedotint "1"
+	
+
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "7"
+	"$rimlightboost" "1.0"
+
+}

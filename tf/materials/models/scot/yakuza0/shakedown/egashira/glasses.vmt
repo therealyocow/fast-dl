@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/shakedown/egashira/glasses"
+    	"$bumpmap"     "models/scot/yakuzakiwami/majima/shoes_metal_n"
+	
+    "$phong" "1"
+    "$phongboost"    "9.9934895"
+    "$phongfresnelranges"    "[0.05 0.115 0.945]"
+    "$phongdisablehalflambert"    "1"
+}

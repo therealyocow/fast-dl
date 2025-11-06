@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\watson\projectplaytime\huggy\M_HuggyEye_Temp"
+	"$selfillum" "1"
+}

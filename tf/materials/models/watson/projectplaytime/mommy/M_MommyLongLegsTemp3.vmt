@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\watson\projectplaytime\mommy\M_MommyLongLegsTemp3"
+	"selfillum" "1"
+}

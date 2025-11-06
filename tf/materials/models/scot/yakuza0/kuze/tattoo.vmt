@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/kuze/tattoo"
+    	"$bumpmap"     "models/scot/yakuza0/kuze/tattoo_n"
+	$translucent 1
+
+	"$phong" "1"
+	"$phongboost" "0.4"
+	"$phongexponent" 10
+	"$phongfresnelranges" "[0.06 0.5 1]"
+
+	
+
+}

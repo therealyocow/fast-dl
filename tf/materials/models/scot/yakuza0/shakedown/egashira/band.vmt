@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/shakedown/egashira/band"
+    	"$bumpmap"     "models/scot/yakuza0/shakedown/egashira/flat_n"
+	
+
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[.07 .3 .1]"
+               "$detail" "models/scot/yakuza0/shakedown/egashira/band_detail"
+	"$detailscale"	"1"
+	$detailblendfactor 1
+	$detailblendmode 2
+	
+
+}

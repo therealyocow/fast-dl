@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/the_gaben/re5/wesker/em8006_bm"
+	$nodecal 1
+	$translucent 1
+
+
+	$envmap env_cubemap
+//	$basealphaenvmapmask 1
+	$envmaptint "[0.5 0.5 0.5]"
+	$envmapfresnel 0.2
+}

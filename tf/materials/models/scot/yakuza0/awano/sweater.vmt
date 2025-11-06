@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/awano/suit"
+    	"$bumpmap"     "models/scot/yakuza0/awano/suit_n"
+	
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" "4"
+	"$phongfresnelranges" "[.015 .1 .05]"
+	"$phongalbedotint" "1"
+               "$detail" "models/scot/yakuza0/awano/sweater_detail"
+	"$detailscale"	"20"
+	$detailblendfactor 1
+	$detailblendmode 2
+	
+
+}

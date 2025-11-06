@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	$nodecal 1
+	$surfaceprop metal
+
+	"$basetexture" "models/the_gaben/ssbu/meta_knight/met2"
+    	"$bumpmap"     "models/the_gaben/ssbu/meta_knight/met2_nor"
+
+	$phongexponenttexture "models/the_gaben/ssbu/shared/color_exp"
+
+	"$color2"		"[0.8 0.8 0.8]"
+	
+	"$phong" "1"
+	$phongexponent 3
+	$phongboost 7
+	"$phongfresnelranges"			"[0.3 0.7 1.5]"
+
+	"$envmap" 			"models/the_gaben/ssbu/meta_knight/painted_silver"
+	"$envmaptint" 			"{153 57 40}"
+	"$envmapfresnel"			"1"
+	"$normalmapalphaenvmapmask"	"1"
+	
+	"$phongalbedotint" 1
+
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 0.5
+
+	"$lightwarptexture"		"models/the_gaben/ssbu/meta_knight/smash_u_metal_lightwarp"
+}

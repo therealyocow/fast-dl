@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/shakedown/kawahashi/shirt"
+    	"$bumpmap"     "models/scot/yakuza0/shakedown/kawahashi/shirt_n"
+	
+
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[.07 .3 .1]"
+               "$detail" "models/scot/yakuza0/shakedown/kawahashi/pants_detail"
+	"$detailscale"	"5"
+	$detailblendfactor 1
+	$detailblendmode 2
+	
+
+}

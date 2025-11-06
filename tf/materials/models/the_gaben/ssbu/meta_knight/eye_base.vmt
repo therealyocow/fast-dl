@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	"$basetexture"			"models/the_gaben/ssbu/meta_knight/eye_base"
+	$color2 "[1.15 1.15 1.15]"
+	$model 1
+}

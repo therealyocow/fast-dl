@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/mentrillum/outsidein/insanity/insanitytexture"
+	"$selfillum" 1
+	"$selfillummaskscale"	5
+}

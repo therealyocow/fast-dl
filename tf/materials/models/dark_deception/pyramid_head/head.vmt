@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dark_deception/pyramid_head/head"
+	"$normalmap" "models/dark_deception/pyramid_head/head_n"
+}

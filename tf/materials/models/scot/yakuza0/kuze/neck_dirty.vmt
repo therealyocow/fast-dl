@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scot/yakuza0/kuze/neck_dirty"
+    	"$bumpmap"     "models/scot/yakuza0/kuze/neck_n"
+	
+	$translucent 1
+	"$phong" "1"
+	"$phongboost" "1"
+	"$phongexponent" 1
+	"$phongfresnelranges" "[0.1 1 2]"
+	
+
+}

@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/leonnie/doors/seek/seexture"
+	"$bumpmap" "models/leonnie/doors/seek/seeknormal"
+}
