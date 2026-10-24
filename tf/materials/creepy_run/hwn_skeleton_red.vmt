@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "creepy_run\hwn_skeleton_red"
+    $emissiveBlendEnabled 1
+    $emissiveBlendTexture    "dev/null"
+    $emissiveBlendBaseTexture   "creepy_run\hwn_skeleton_red"
+    $emissiveBlendFlowTexture    "dev/null"
+    $emissiveBlendTint "[0.1 0.1 0.1]"
+    $emissiveBlendStrength 1
+    $emissiveBlendScrollVector "[0 0]"
+}

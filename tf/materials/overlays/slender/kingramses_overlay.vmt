@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/slender/kingramses_overlay"
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "30"
+		 } 
+	}
+}

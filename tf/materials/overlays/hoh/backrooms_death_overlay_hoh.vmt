@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/hoh/backrooms_death_overlay_hoh"
+	"Proxies" 
+	{ 
+		"AnimatedTexture" 
+		{
+			"animatedTextureVar" "$basetexture" 
+			"animatedTextureFrameNumVar" "$frame" 
+			"animatedTextureFrameRate" "30"
+		 } 
+	}
+}
